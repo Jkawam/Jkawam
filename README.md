@@ -5,6 +5,7 @@
 Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Concluí o ensino médio na EEEP, com o curso técnico em Eletrotécnica. Atualmente, estou cursando Computação na UECE. Sempre gostei da tecnologia e desenvolvimento, sempre buscando aprender e evoluir na área. Tenho focado meus estudos em desenvolvimento web com tecnologias modernas, criando projetos práticos para aprimorar minhas habilidades.
 
 ---
+### 🌐 Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-kawam-rodrigues-017679334/" target="_blank">
