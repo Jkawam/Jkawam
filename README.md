@@ -1,6 +1,12 @@
-# José Kawam
+# 👨‍💻 José Kawam
 
-**`Desenvolvedor FullStack`**
+<p align="center">
+  🚀 Desenvolvedor Full Stack em formação apaixonado por tecnologia  
+</p>
+
+---
+
+## 💡 Sobre mim
 
 Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Concluí o ensino médio na EEEP, com o curso técnico em Eletrotécnica. Atualmente, estou cursando Computação na UECE.
 
@@ -8,103 +14,49 @@ Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender e evol
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
+<p align="center">
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img alt="Tailwind" title="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Tecnologias" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawam&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" />
 </p>
 
-<br clear="both">
+---
+
+## 🚀 Projetos em destaque
+
+* 🔬 Dev Playground (estudos e experimentos)
+* 🛒 Digital Store (projeto front-end)
+* ⚙️ API de Produtos (back-end com Node.js)
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  <a href="https://www.instagram.com/_jkawam">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <i>"Evoluindo um commit por dia 🚀"</i>
+</p>
