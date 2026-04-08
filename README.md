@@ -90,15 +90,8 @@ Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender e evol
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jkawam&theme=tokyonight&layout=compact&langs_count=9" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />&nbsp;&nbsp;<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jkawam&theme=tokyonight&layout=compact&langs_count=9" />
+</p>
 
 <br clear="both">
