@@ -7,11 +7,11 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Concluí o ensin
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/j_kawam?igsh=Mm94NDlteGRoc2Jv" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30px" alt="Instagram" />
   </a>
 </p>
