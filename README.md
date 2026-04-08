@@ -6,6 +6,18 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Concluí o ensin
 
 ---
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30px" alt="Instagram" />
+  </a>
+</p>
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -89,7 +101,8 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Concluí o ensin
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />&nbsp;&nbsp;<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jkawam&theme=tokyonight&layout=compact&langs_count=9" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jkawam&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
-<br clear="both">
+
