@@ -7,7 +7,7 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Concluí o ensin
 ---
 
 <p align="left">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-kawam-rodrigues-017679334/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn" />
   </a>
   &nbsp;
