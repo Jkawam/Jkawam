@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo José Kawam, tenho 20 anos e sou natural do Ceára. Concluí o ensino médio na EEEP, com o curso técnico em Eletrotecnica. Atualmente, estou cursando computação na UECE. Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender e evoluir na área.
+Me chamo José Kawam, tenho 20 anos e moro em Beberibe Ceará. Concluí o ensino médio na EEEP, com o curso técnico em Eletrotecnica. Atualmente, estou cursando computação na UECE. Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender e evoluir na área.
 
 ---
 
