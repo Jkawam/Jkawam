@@ -1,8 +1,10 @@
 # José Kawam
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
-Me chamo José Kawam, tenho 20 anos e moro em Beberibe Ceará. Concluí o ensino médio na EEEP, com o curso técnico em Eletrotecnica. Atualmente, estou cursando computação na UECE. Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender e evoluir na área.
+Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Concluí o ensino médio na EEEP, com o curso técnico em Eletrotécnica. Atualmente, estou cursando Computação na UECE.
+
+Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender e evoluir na área. Tenho focado meus estudos em desenvolvimento web com tecnologias modernas, criando projetos práticos para aprimorar minhas habilidades.
 
 ---
 
@@ -56,7 +58,6 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe Ceará. Concluí o ensino
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Tailwind" 
@@ -65,7 +66,14 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe Ceará. Concluí o ensino
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -78,6 +86,8 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe Ceará. Concluí o ensino
 <br/>
 <br/>
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -86,14 +96,15 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe Ceará. Concluí o ensino
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Tecnologias" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkawam&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+<br clear="both">
