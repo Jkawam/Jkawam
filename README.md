@@ -105,6 +105,8 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Concluí o ensin
   <img height="180em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jkawam&theme=tokyonight&layout=compact&langs_count=8" />
 </p>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jkawam/Jkawam/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jkawam/Jkawam/output/github-contribution-grid-snake.svg">
