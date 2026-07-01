@@ -5,7 +5,7 @@
 Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Atualmente, estou cursando Computação na UECE. Sempre gostei da tecnologia e desenvolvimento, sempre buscando aprender e evoluir na área. Tenho focado meus estudos em desenvolvimento web com tecnologias modernas, criando projetos práticos para aprimorar minhas habilidades.
 
 ---
-### 🌐 Conecte-se comigo
+###  Conecte-se comigo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-kawam-rodrigues-017679334/" target="_blank">
@@ -18,7 +18,7 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Atualmente, esto
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" title="HTML5"/>
@@ -36,7 +36,7 @@ Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Atualmente, esto
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <p align="center">
   <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
