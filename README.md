@@ -42,7 +42,7 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mysql,git,github,vscode,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mysql,git,github,vscode,figma"/>
 
 </p>
 
