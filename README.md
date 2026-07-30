@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:0284C7,100:06B6D4&text=José%20Kawam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:0284C7,100:06B6D4&text=José%20Kawam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=console.log(%22Ol%C3%A1%2C+seja+bem-vindo!%22);Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Learning+every+day.)](https://git.io/typing-svg)
 
@@ -70,8 +70,6 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 
 ---
 
-## Contribuições
-
 <p align="center">
 
 <picture>
@@ -92,30 +90,7 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 
 </p>
 
----
-
-## Projetos em destaque
-
-<a href="LINK_DO_REPOSITORIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jkawam&repo=Digital-Store&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="LINK_DO_REPOSITORIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jkawam&repo=Dev-Labs&theme=tokyonight&hide_border=true"/>
-</a>
-
----
-
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jkawam&style=for-the-badge&color=0ea5e9"/>
-
-<br><br>
-
-Construindo soluções modernas, uma linha de código por vez.
-
-<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
 
