@@ -22,15 +22,15 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 
 <p align="left">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/jos%C3%A9-kawam-rodrigues-017679334">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="SEU_LINK_INSTAGRAM">
+<a href="https://www.instagram.com/j_kawam?igsh=Mm94NDlteGRoc2Jv">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:kawamsilva1312@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
