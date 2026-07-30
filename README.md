@@ -1,52 +1,123 @@
-# Olá, sou o José Kawam
+<div align="center">
 
-**`Desenvolvedor FullStack`**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,50:0284C7,100:06B6D4&text=José%20Kawam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
 
-Me chamo José Kawam, tenho 20 anos e moro em Beberibe, Ceará. Atualmente, estou cursando Computação na UECE. Sempre gostei da tecnologia e desenvolvimento, sempre buscando aprender e evoluir na área. Tenho focado meus estudos em desenvolvimento web com tecnologias modernas, criando projetos práticos para aprimorar minhas habilidades.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=750&lines=console.log(%22Ol%C3%A1%2C+seja+bem-vindo!%22);Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Learning+every+day.)](https://git.io/typing-svg)
+
+</div>
 
 ---
-###  Conecte-se comigo
+
+## Sobre mim
+
+Sou **José Kawam**, tenho **20 anos** e moro em **Beberibe, Ceará**.
+
+Atualmente curso **Computação** na **UECE** e tenho direcionado meus estudos para o desenvolvimento Full Stack, criando projetos práticos para consolidar meus conhecimentos.
+
+Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, com foco em construir aplicações modernas, escaláveis e bem estruturadas.
+
+---
+
+## Contato
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-kawam-rodrigues-017679334/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="30px" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/j_kawam?igsh=Mm94NDlteGRoc2Jv" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30px" alt="Instagram" />
-  </a>
+
+<a href="SEU_LINK_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="SEU_LINK_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/E--mail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-###  Linguagens e Tecnologias
+## Tecnologias
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="35" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="35" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="35" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35" title="MySQL"/>
+#### Front-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind"/>
+</p>
+
+#### Back-end
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/>
+</p>
+
+#### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
 ---
 
-###  Estatísticas
+## Estatísticas
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jkawam&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Atividade
 
 <p align="center">
-  <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="150em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jkawam&theme=tokyonight&layout=compact&langs_count=8" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jkawam&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
+## Projetos em destaque
+
+<a href="LINK_DO_REPOSITORIO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jkawam&repo=Digital-Store&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="LINK_DO_REPOSITORIO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Jkawam&repo=Dev-Labs&theme=tokyonight&hide_border=true"/>
+</a>
+
+---
+
+## Contribuições
+
+<p align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jkawam/Jkawam/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jkawam/Jkawam/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jkawam/Jkawam/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jkawam/Jkawam/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jkawam/Jkawam/output/github-contribution-grid-snake.svg">
+<img alt="Snake animation" src="https://raw.githubusercontent.com/Jkawam/Jkawam/output/github-contribution-grid-snake.svg">
 </picture>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Jkawam&style=for-the-badge&color=0ea5e9"/>
+
+<br><br>
+
+Construindo soluções modernas, uma linha de código por vez.
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
+
+</div>
