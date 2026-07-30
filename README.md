@@ -62,13 +62,11 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 
 ## Estatísticas
 
-<br>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Jkawam&theme=tokyonight&hide_border=true"/>
-
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkawam&theme=tokyonight&layout=compact&langs_count=8" />
+</p>
 
 ---
 
@@ -120,4 +118,4 @@ Construindo soluções modernas, uma linha de código por vez.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
 
-</div>
+</div> 
