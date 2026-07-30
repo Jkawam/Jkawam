@@ -64,9 +64,9 @@ Busco sempre aprender novas tecnologias e evoluir como desenvolvedor, com foco e
 
 <p align="center">
 
-<img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkawam&theme=tokyonight&layout=compact&langs_count=8"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkawam&theme=tokyonight&layout=compact&langs_count=8"/>
 
 </p>
 
@@ -83,14 +83,6 @@ Busco sempre aprender novas tecnologias e evoluir como desenvolvedor, com foco e
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jkawam&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-<div align="center">
-
-Construindo soluções modernas, uma linha de código por vez.
-
-<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
 
