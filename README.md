@@ -1,18 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F172A,50:0284C7,100:06B6D4&text=José%20Kawam&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
+<img width="850" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:0284C7,100:06B6D4&text=José%20Kawam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Building+projects+and+learning+every+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=console.log(%22Ol%C3%A1%2C+seja+bem-vindo!%22);Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Learning+every+day.)](https://git.io/typing-svg)
 
 </div>
+
+---
 
 ## Sobre mim
 
 Sou **José Kawam**, tenho **20 anos** e moro em **Beberibe, Ceará**.
 
-Atualmente curso **Computação na UECE** e tenho foco no desenvolvimento **Full Stack**, criando projetos práticos para aprimorar minhas habilidades.
+Atualmente curso **Computação** na **UECE** e tenho direcionado meus estudos para o desenvolvimento **Full Stack**, criando projetos práticos para consolidar meus conhecimentos.
 
-Busco evoluir constantemente, aprendendo novas tecnologias e desenvolvendo aplicações modernas e bem estruturadas.
+Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, com foco em construir aplicações modernas, escaláveis e bem estruturadas.
+
+---
 
 ## Contato
 
@@ -32,25 +36,33 @@ Busco evoluir constantemente, aprendendo novas tecnologias e desenvolvendo aplic
 
 </p>
 
+---
+
 ## Tecnologias
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mysql,git,github,vscode,figma&perline=7"/>
+
 </p>
+
+---
 
 ## Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="150" width="410" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkawam&theme=tokyonight&layout=compact&langs_count=8"/>
+<img height="150" width="410" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkawam&theme=tokyonight&layout=compact&langs_count=8"/>
 
-</p>
+</div>
+
+---
 
 ## GitHub Journey
 
-<p align="center">
+<div align="center">
 
 <picture>
 
@@ -58,24 +70,30 @@ Busco evoluir constantemente, aprendendo novas tecnologias e desenvolvendo aplic
 
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jkawam/Jkawam/output/pacman-contribution-graph.svg">
 
-<img width="95%" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jkawam/Jkawam/output/pacman-contribution-graph.svg">
+<img width="850" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Jkawam/Jkawam/output/pacman-contribution-graph.svg">
 
 </picture>
 
-</p>
+</div>
+
+---
 
 ## Atividade
 
-<p align="center">
+<div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jkawam&theme=tokyo-night&hide_border=true"/>
+<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=Jkawam&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
+
+---
 
 <div align="center">
 
 Construindo soluções modernas, uma linha de código por vez.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
+<br>
+
+<img width="850" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
 
 </div>
