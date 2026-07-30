@@ -84,14 +84,6 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 
 </div>
 
----
-
-<div align="center">
-
-Construindo soluções modernas, uma linha de código por vez.
-
-<br>
-
 <img width="850" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
 
 </div>
