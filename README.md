@@ -64,9 +64,9 @@ Busco sempre aprender novas tecnologias e evoluir como desenvolvedor, com foco e
 
 <p align="center">
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkawam&theme=tokyonight&layout=compact&langs_count=8"/>
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkawam&theme=tokyonight&layout=compact&langs_count=8"/>
 
 </p>
 
