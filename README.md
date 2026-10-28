@@ -1,67 +1,56 @@
 <div align="center">
 
-<img width="850" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:0284C7,100:06B6D4&text=José%20Kawam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,35:0F172A,70:0369A1,100:06B6D4&text=JOS%C3%89%20KAWAM&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=60&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=console.log(%22Ol%C3%A1%2C+seja+bem-vindo!%22);Full+Stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Learning+every+day.)](https://git.io/typing-svg)
+<a href="https://github.com/Jkawam">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=console.log(%22Ol%C3%A1%2C+seja+bem-vindo!%22);Desenvolvendo+minhas+habilidades+em+Full+Stack;React+%7C+Node.js+%7C+TypeScript;Transformando+ideias+em+c%C3%B3digo." alt="Texto animado"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Jkawam?tab=repositories">
+<img src="https://img.shields.io/badge/MEUS%20PROJETOS-020617?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-kawam-rodrigues-017679334">
+<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
+</a>
 
 </div>
 
+## `01` — Sobre mim
+
+```javascript
+const desenvolvedor = {
+  nome: "José Kawam",
+  localização: "Beberibe, Ceará, Brasil",
+  formação: "Computação — UECE",
+  foco: "Desenvolvimento Full Stack",
+  aprendendo: ["JavaScript", "React", "Node.js"],
+  objetivo: "Evoluir criando projetos reais"
+};
+```
+
+Sou estudante de Computação na UECE e desenvolvedor em formação, focado em aprimorar minhas habilidades por meio de projetos práticos.
+
+Tenho experiência com desenvolvimento front-end e busco aprofundar meus conhecimentos em back-end, arquitetura de aplicações e boas práticas de programação.
+
+Meu objetivo é construir aplicações modernas, funcionais e bem estruturadas, evoluindo continuamente como profissional de tecnologia.
+
 ---
 
-## Sobre mim
+## `02` — Tecnologias
 
-Sou **José Kawam**, tenho **20 anos** e moro em **Beberibe, Ceará**.
+<p align="center">
 
-Atualmente curso **Computação** na **UECE** e tenho direcionado meus estudos para o desenvolvimento **Full Stack**, criando projetos práticos para consolidar meus conhecimentos.
-
-Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, com foco em construir aplicações modernas, escaláveis e bem estruturadas.
-
----
-
-## Contato
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jos%C3%A9-kawam-rodrigues-017679334">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/j_kawam?igsh=Mm94NDlteGRoc2Jv">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:kawamsilva1312@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" alt="Node.js, Express e MySQL"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Git, GitHub, VS Code e Figma"/>
 
 </p>
 
 ---
 
-## Tecnologias
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" title="Next.js" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS" alt="Tailwind CSS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" title="Express" alt="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma" alt="Figma"/>
-
-</p>
-
----
-
-## Estatísticas
+## `03` — Estatísticas do GitHub
 
 <div align="center">
 
@@ -90,7 +79,18 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 </div>
 
 ---
+## `04` — Contato
 
-## Tabela de Atividades
+<div align="center">
 
-<img width="850" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
+<a href="https://www.linkedin.com/in/jos%C3%A9-kawam-rodrigues-017679334">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/j_kawam?igsh=Mm94NDlteGRoc2Jv">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram"/>
+</a>
+<a href="mailto:kawamsilva1312@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="E-mail"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06B6D4,50:0284C7,100:020617" width="100%" alt="Rodapé azul e ciano"/>
