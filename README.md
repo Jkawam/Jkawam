@@ -79,6 +79,19 @@ Meu objetivo é construir aplicações modernas, funcionais e bem estruturadas, 
 </div>
 
 ---
+
+## Gráfico de Atividade
+
+<p align="center">
+  <img
+    src="./assets/activity-skyline.svg"
+    width="100%"
+    alt="Contribution Skyline — Jkawam"
+  />
+</p>
+
+---
+
 ## `04` — Contato
 
 <div align="center">
