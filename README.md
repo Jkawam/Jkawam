@@ -63,11 +63,16 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 
 ## Estatísticas
 
-<p align="center">
-  <img height="166em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jkawam&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<div align="center">
 
-  <img height="166em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jkawam&theme=tokyonight&layout=compact&langs_count=8" />
-</p>
+<a href="https://github.com/Jkawam">
+  <img height="166em" src="https://github-stats-extended.vercel.app/api?username=Jkawam&show_icons=true&include_all_commits=true&rank_icon=default&locale=pt-br&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&icon_color=06B6D4&border_color=0891B2" alt="Estatísticas e ranking do GitHub"/>
+</a>
+
+<a href="https://github.com/Jkawam">
+  <img height="166em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jkawam&layout=compact&langs_count=8&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&border_color=0891B2" alt="Linguagens mais utilizadas"/>
+</a>
+</div>
 
 ---
 <div align="center">
@@ -89,5 +94,3 @@ Estou sempre buscando aprender novas tecnologias e evoluir como desenvolvedor, c
 ## Tabela de Atividades
 
 <img width="850" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:06B6D4,50:0284C7,100:0F172A"/>
-
-</div>
